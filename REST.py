@@ -291,7 +291,8 @@ class Booksquery(Resource):
 if __name__ == '__main__':
     db_name = 'k_database'
     mongo_port = 25912
-    mongo_host = 'mongodb://Zanlai:hzl13579@ds125912.mlab.com:25912/k_database'
+    mongo_host = 'mongodb://<>.mlab.com:25912/k_database'
+    # The account has been removed, PLEASE use your own mongoDB account to test the code
 
     # run the application
     app.run(debug=True)
