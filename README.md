@@ -20,4 +20,7 @@ As the documentation shows , you can construct URLs specifying different paramet
  使用技术<br>
  1.python逻辑操作、爬虫，jsons包操作<br>
  2.Flask框架搭建<br>
- 3.后端系统与云端数据库mongoDB链接<br>
+ 3.后端系统与云端数据库mongoDB链接<br><br>
+ 
+ Description.pdf为英文版具体功能指南<br>
+ requirement.txt为运行环境要求<br>
